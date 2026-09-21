@@ -1,0 +1,14 @@
+{
+  "versions": {
+    "common": "V2.16",
+    "gpt": "V3.24",
+    "gemini": "V2.23",
+    "claude": "V2.23",
+    "report": "V13"
+  },
+  "shared_page_rule_all": true,
+  "canonical_crop_common_claude": true,
+  "token_budget_not_scope_waiver": true,
+  "audit_count_integrity": true,
+  "no_excel_structure_added": true
+}
